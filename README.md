@@ -1,6 +1,6 @@
 # Human Activity Classification Using Machine Learning
 
-A 2024 project for the **Machine Learning Methods (P160B124)** course at Kaunas University of Technology, completed together with **Matas Masalskis**. The project investigated multiclass human activity recognition using smartphone sensor features.
+A 2024 project for the **Machine Learning Methods (P160B124)** course at Kaunas University of Technology, completed in a group project. The project investigated multiclass human activity recognition using smartphone sensor features.
 
 This repository presents **my own code contribution**: feature exploration, correlation-based feature selection, Random Forest, and Naive Bayes. XGBoost and Nearest Shrunken Centroids were investigated by my teammate but are not implemented here.
 
